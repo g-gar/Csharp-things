@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTrees", "ExpressionTrees\ExpressionTrees.csproj", "{D9FEEAE0-EBF1-4904-BA32-C15956F70896}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iterator", "iterator\iterator.csproj", "{4BC2031B-3605-4B09-AA40-A5C7ED55645B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D9FEEAE0-EBF1-4904-BA32-C15956F70896}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9FEEAE0-EBF1-4904-BA32-C15956F70896}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9FEEAE0-EBF1-4904-BA32-C15956F70896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC2031B-3605-4B09-AA40-A5C7ED55645B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC2031B-3605-4B09-AA40-A5C7ED55645B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC2031B-3605-4B09-AA40-A5C7ED55645B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC2031B-3605-4B09-AA40-A5C7ED55645B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

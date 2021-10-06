@@ -3,6 +3,8 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D9FEEAE0-EBF1-4904-BA32-C15956F70896::net5.0::ExpressionTrees.test.FactorialExpressionTreeTests.Test0_10&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D9FEEAE0-EBF1-4904-BA32-C15956F70896::net5.0::ExpressionTrees.test.F2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4BC2031B-3605-4B09-AA40-A5C7ED55645B::net5.0::iterator.test.EvenSequenceTests.TestEvenNumbersLessThan10&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4BC2031B-3605-4B09-AA40-A5C7ED55645B::net5.0::iterator.test.EvenSequenceTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
